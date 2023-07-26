@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product A"
+    },
+    {
+      "name": "Product C update",
+      "id": 2
+    },
+    {
+      "name": "Product C update",
+      "id": 3
+    },
+    {
+      "name": "Product C update",
+      "id": 5
+    },
+    {
+      "name": "Product D",
+      "id": 6
+    },
+    {
+      "name": "Product D",
+      "id": 7
+    },
+    {
+      "name": "Product D",
+      "id": 8
+    },
+    {
+      "name": "Product D",
+      "id": 9
+    }
+  ]
+}
